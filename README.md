@@ -1,2 +1,2 @@
 # BinarySearchTree
-CS 251. Binary Search Tree functions.
+Binary Search Tree functions.
